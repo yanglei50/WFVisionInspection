@@ -1,6 +1,4 @@
-# WFVisionInspection
-Machine vision based steel pole defect detection system. 
-========================================================
+# Machine vision based steel pole defect detection system
 1.overview
 -----------
 In this project, we mainly focused on steel pole defect automatic detection. Currently, we use helcon and MIL lib to preprocess images and use tensorflow to recognize defect. In current version,there are following feature:
